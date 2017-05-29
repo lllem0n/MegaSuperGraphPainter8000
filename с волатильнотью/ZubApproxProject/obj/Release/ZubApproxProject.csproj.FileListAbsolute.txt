@@ -1,0 +1,12 @@
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Release\ZubApproxProject.exe.config
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Release\ZubApproxProject.exe
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Release\ZubApproxProject.pdb
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Release\MathNet.Numerics.dll
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Release\MySql.Data.dll
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Release\MathNet.Numerics.xml
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Release\ZubApproxProject.csprojResolveAssemblyReference.cache
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Release\ZubApproxProject.Form1.resources
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Release\ZubApproxProject.Properties.Resources.resources
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Release\ZubApproxProject.csproj.GenerateResource.Cache
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Release\ZubApproxProject.exe
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Release\ZubApproxProject.pdb

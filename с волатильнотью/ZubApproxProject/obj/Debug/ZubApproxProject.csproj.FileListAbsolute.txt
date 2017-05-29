@@ -1,0 +1,28 @@
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\bin\Debug\ZubApproxProject.exe.config
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\bin\Debug\ZubApproxProject.exe
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\bin\Debug\ZubApproxProject.pdb
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\bin\Debug\MathNet.Numerics.dll
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\bin\Debug\MySql.Data.dll
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\bin\Debug\MathNet.Numerics.xml
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\obj\Debug\ZubApproxProject.csprojResolveAssemblyReference.cache
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\obj\Debug\ZubApproxProject.Form1.resources
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\obj\Debug\ZubApproxProject.Properties.Resources.resources
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\obj\Debug\ZubApproxProject.csproj.GenerateResource.Cache
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\obj\Debug\ZubApproxProject.exe
+c:\users\demjz\documents\visual studio 2015\Projects\ZubApproxProject\ZubApproxProject\obj\Debug\ZubApproxProject.pdb
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Debug\ZubApproxProject.exe.config
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Debug\ZubApproxProject.exe
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Debug\ZubApproxProject.pdb
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Debug\ZubApproxProject.exe
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Debug\ZubApproxProject.pdb
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Debug\MathNet.Numerics.dll
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Debug\MySql.Data.dll
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Debug\MathNet.Numerics.xml
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Debug\ZubApproxProject.csprojResolveAssemblyReference.cache
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Debug\ZubApproxProject.Form1.resources
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Debug\ZubApproxProject.Properties.Resources.resources
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\obj\Debug\ZubApproxProject.csproj.GenerateResource.Cache
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Debug\RDotNet.dll
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Debug\RDotNet.xml
+C:\Users\demjz\Desktop\с волатильнотью\ZubApproxProject\bin\Debug\RDotNet.NativeLibrary.xml
